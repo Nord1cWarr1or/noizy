@@ -3,7 +3,7 @@ module github.com/dwisiswant0/noizy
 go 1.21
 
 require (
-	fyne.io/systray v1.10.1-0.20230722100817-88df1e0ffa9a
+	fyne.io/systray v1.12.2
 	github.com/gopxl/beep v1.3.0
 	github.com/gosimple/slug v1.13.1
 	github.com/lmittmann/tint v1.0.3
@@ -19,6 +19,5 @@ require (
 	github.com/jfreymuth/vorbis v1.0.2 // indirect
 	github.com/mattn/go-isatty v0.0.16 // indirect
 	github.com/pkg/errors v0.9.1 // indirect
-	github.com/tevino/abool v1.2.0 // indirect
-	golang.org/x/sys v0.12.0 // indirect
+	golang.org/x/sys v0.15.0 // indirect
 )
