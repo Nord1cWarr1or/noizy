@@ -4,15 +4,15 @@ go 1.21
 
 require (
 	fyne.io/systray v1.12.2
-	github.com/gopxl/beep v1.3.0
-	github.com/gosimple/slug v1.13.1
-	github.com/lmittmann/tint v1.0.3
+	github.com/gopxl/beep v1.4.1
+	github.com/gosimple/slug v1.15.0
+	github.com/lmittmann/tint v1.2.0
 	github.com/mattn/go-colorable v0.1.13
 )
 
 require (
 	github.com/ebitengine/oto/v3 v3.1.0 // indirect
-	github.com/ebitengine/purego v0.5.0 // indirect
+	github.com/ebitengine/purego v0.7.1 // indirect
 	github.com/godbus/dbus/v5 v5.1.0 // indirect
 	github.com/gosimple/unidecode v1.0.1 // indirect
 	github.com/jfreymuth/oggvorbis v1.0.5 // indirect
